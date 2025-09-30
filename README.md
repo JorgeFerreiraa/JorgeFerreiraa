@@ -1,15 +1,14 @@
  
   
 
-### <div align="center">I'm Jorge, a passionate frontend developer from Portugal</div>  
-  
+<h1 align="center">👋 Hi, I'm Jorge</h1>
+<h3 align="center">💻 Full-Stack Developer | 🤖 AI & Computer Vision Enthusiast</h3>  
 
-- 🔭 I’m currently studying on Universidade Fernando Pessoa  
-  
+## 🚀 About Me
 
-- 🌱 I’m currently learning YoloV8 Framework and python  
-  
-
+- 🔭 Degree in computer engineering at Universidade Fernando Pessoa
+- 🌱 Learning **Computer Vision, YOLOv8, and Deep Learning frameworks**  
+- 💬 Ask me about: **Java, C & Python**  
 - ⚡ Fun fact: I was about to choose the sports course instead of IT  
   
 
