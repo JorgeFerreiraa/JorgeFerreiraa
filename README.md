@@ -10,14 +10,6 @@
 - 🌱 Learning **Computer Vision, YOLOv8, and Deep Learning frameworks**  
 - 💬 Ask me about: **Java, C & Python**  
 - ⚡ Fun fact: I was about to choose the sports course instead of IT  
-  
-
-<br/>  
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21pez3ajjzmm6upurk2wguuxi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
