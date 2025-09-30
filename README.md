@@ -5,7 +5,7 @@
 <h3 align="center">💻 Full-Stack Developer | 🤖 AI & Computer Vision Enthusiast</h3>  
 
 # 💫 About Me:
-- 🔭 Degree in computer engineering at Universidade Fernando Pessoa<br>- 🌱 Learning Computer Vision, YOLOv8, and Deep Learning frameworks<br>- 💬 Ask me about: Java, C & Python<br>- ⚡ Fun fact: I was about to choose the sports course instead of IT
+- 🔭 Degree in computer engineering at Universidade Fernando Pessoa<br> - 🌱 Learning Computer Vision, YOLOv8, and Deep Learning frameworks<br>- 💬 Ask me about: Java, C & Python<br>- ⚡ Fun fact: I was about to choose the sports course instead of IT
 
 
 ## 🌐 Socials:
