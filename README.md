@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://steamuserimages-a.akamaihd.net/ugc/845963567851899109/AA6BC8ACB7BC434B1AB403C2D347E914916B112B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### <div align="center">I'm Jorge, a passionate frontend developer from Portugal</div>  
